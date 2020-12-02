@@ -21,5 +21,5 @@ remve(){
 }
 
 namechg
-#inst
-#remve
+inst
+remve
